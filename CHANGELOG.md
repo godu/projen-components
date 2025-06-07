@@ -1,5 +1,11 @@
 # @floydspace/projen-components
 
+## 1.0.0-next.18
+
+### Patch Changes
+
+- [`42f1a50`](https://github.com/floydspace/projen-components/commit/42f1a50280bf009e3ab5d47ca1468e977bed9abf) Thanks [@floydspace](https://github.com/floydspace)! - do not use parallel flag to run pnpm task, instead use configurable workspace-concurrency option
+
 ## 1.0.0-next.17
 
 ### Patch Changes
